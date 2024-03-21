@@ -33,3 +33,7 @@ Ensure you handle exceptions and errors appropriately for a robust application.
 Customize the application to handle multiple responses, error cases, and additional functionalities as needed.
 This application demonstrates a basic interaction with the OpenAI GPT-3.5 model; feel free to expand its capabilities based on your requirements.
 Enjoy experimenting with the OpenAI GPT-3.5 model through this simple console application!
+
+License
+
+License This project is licensed under the MIT License.
